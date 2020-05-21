@@ -148,3 +148,22 @@ nav, li  {
 /* .displayblo {
   display: block;
 } */
+
+/* css BOTON  */
+.padding {
+  padding: 10px;
+}
+.width-and-height {
+  width: 200px;
+  height: 50px;
+}
+.bg {
+  background:white;
+  border: solid 1px;
+}
+.mar-top-60 {
+  margin-top: 60px;
+}
+button:hover {
+  background: grey;
+}
